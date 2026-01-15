@@ -1,0 +1,66 @@
+---
+title: "Reflection on the use of GenAI"
+format: html
+---
+
+## GenAI tool used and reason for choosing it
+
+The primary GenAI tool I used for this assignment was **ChatGPT**, which supported the development, refinement, and presentation of my personal website content. Importantly, the tool was not used to generate analytical results, visualizations, or technical outputs. Instead, it functioned as an assistive tool for improving clarity, structure, and articulation of my existing work.
+
+I chose ChatGPT because of its strength in explaining technical concepts in a clear and accessible manner, as well as its ability to suggest improvements in wording and organisation while preserving the original intent of the content. This was particularly useful for translating technically complex ideas into explanations that are suitable for a general audience.
+
+As this assignment required a combination of technical implementation and reflective writing, ChatGPT was an appropriate support tool to help me communicate my ideas more clearly and coherently without replacing my own understanding or contributions.
+---
+
+
+## How GenAI helped me complete the assessment
+
+GenAI supported my work in several practical and targeted ways:
+
+- It helped check the explanations for my **data visualization**, particularly in the rationale behind performance metrics, comparisons, and design choices.
+
+- It assisted in **structuring content** across different sections of the website, ensuring logical flow, consistency in tone, and clearer segmentation of ideas.
+
+- It acted as a **checklist-style aid** to verify that my content aligned with the assessment requirements, reducing the likelihood of missing required components.
+
+The quantitative analysis, portfolio backtesting logic, and visualizations themselves were developed using my own systems and prior projects. GenAI was used strictly to polish explanations and presentation, rather than to generate analytical content or results.
+
+---
+
+
+## Benefits of using GenAI
+
+One key benefit of using GenAI is improved efficiency. It enables quicker refinement of written content and helps convert technically dense explanations into clearer and more readable narratives.
+
+Additionally, GenAI serves as a useful second perspective during the review process. This helps identify areas where explanations may be unclear or overly implicit, thereby improving the overall quality and coherence of the final output.
+---
+
+
+## Challenges and limitations of GenAI
+
+Despite its benefits, GenAI has several limitations:
+
+- It may produce generic or surface-level responses if prompts are not sufficiently specific.
+
+- It lacks full awareness of project context unless detailed information is explicitly provided.
+
+- Its outputs require careful human review to ensure accuracy, relevance, and alignment with the actual work performed.
+
+For these reasons, I treated GenAI as a supporting assistant rather than an authoritative source, and all outputs were critically evaluated before being incorporated.
+
+---
+
+## How GenAI may assist me in future study or work
+
+In future academic and professional work, I expect GenAI to be useful for:
+- drafting documentation and explanations,
+- summarizing technical concepts,
+- supporting reflection and ideation.
+
+However, strong domain knowledge and critical thinking will remain essential, especially in data analytics and finance-related work.
+
+---
+
+## Additional thoughts
+
+This experience reinforced the importance of using GenAI responsibly. When used transparently and thoughtfully, it can enhance productivity and communication without compromising learning or originality.

@@ -1,0 +1,15 @@
+---
+title: "Project"
+---
+
+## My Project
+
+Before entering SIT, I studied Banking and Finance and worked on an entrepreneurship project. My team built a prototype of a crypto platform called "Cryptogenics" that aimed at educating the masses on cryptocurrencies and how to manage their investments.
+
+### Project: Cryptogenics
+- Objective: Educate the public on cryptocurrency 
+- Tools used: Figma
+- Outcome: Interviewed 50 members of the public and received feedback that 70% would try our app
+
+![](docs/images/Crypto_Trading.jpg){width=40%}
+![](docs/images/working_prototype.jpg){width=80%}

@@ -4,19 +4,25 @@ project:
 
 website:
   title: "temp_website"
+  favicon: favicon.png
   navbar:
+    logo: logo.png
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: Project.qmd
+        text: Project
+      - href: data_visualization.qmd
+        text: Data Visualization
+      - href: reflection.qmd
+        text: Reflection
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
     toc: true
-
+    toc-depth: 3
+    toc-location: left
 
 

@@ -1,11 +1,22 @@
 ---
-title: "temp_website"
+title: "Home"
 ---
 
-This is a Quarto website.
+![](docs/images/ChatGPT_image.png){width=40%}
+*This is an AI Generated image - It is not me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+## Hello 👋
+
+I am **Wei Jie**, an undergraduate student at the Singapore Institute of Technology (SIT),
+studying Applied Computing with a focus on data and analytics.
+
+This website showcases my academic work, projects, and reflections as part of my
+Data Engineering module.
+
+### Interests
+- Data analytics & visualization  
+- Finance & technology  
+- Programming with R and Python
+- Quantitative Finance
+
