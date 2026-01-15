@@ -1,5 +1,6 @@
 ---
 title: "Project"
+format: html
 ---
 
 ## My Project

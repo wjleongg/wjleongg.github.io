@@ -3,7 +3,6 @@ title: "Home"
 ---
 
 ![](docs/images/ChatGPT_image.png){width=40%}
-*This is an AI Generated image - It is not me
 
 
 ## Hello 👋
