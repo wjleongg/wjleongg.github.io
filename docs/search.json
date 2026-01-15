@@ -47,5 +47,54 @@
     "title": "Data Visualization",
     "section": "Visualization: Portfolio vs Benchmark Performance",
     "text": "Visualization: Portfolio vs Benchmark Performance\nThis visualization presents a cumulative return line chart comparing the performance of my backtested investment portfolio against a benchmark ETF over the period 2019 to 2025. The portfolio is constructed using a diversified basket of exchange-traded funds (ETFs) with fixed weights, while the benchmark represents broad market performance.\nBy plotting cumulative returns over time, the chart allows for a direct comparison of how an actively constructed portfolio performs relative to a passive market reference across multiple market cycles.\n\nWhat this chart shows\nThe portfolio consistently outperforms the benchmark over the long run, achieving higher cumulative returns by the end of the period.\nPeriods of market stress and volatility (such as sharp drawdowns) are clearly visible, allowing comparison of how both the portfolio and benchmark react during downturns.\nThe visualization highlights the speed and strength of recovery, showing that the portfolio rebounds more effectively than the benchmark after market declines.\nOverall performance differences become increasingly pronounced over time, illustrating the impact of portfolio construction decisions on long-term outcomes.\n\n\nWhy I chose this visualization\nI chose a cumulative return line chart because it is the most intuitive and widely used method for evaluating investment performance over time:\n\nIt clearly represents long-term growth trajectories rather than short-term fluctuations.\nIt enables direct, like-for-like comparison between two investment strategies on the same scale.\nIt makes drawdowns, volatility, and recovery periods visually apparent, which are critical aspects of portfolio analysis.\n\nThis form of visualization is commonly used in professional finance and investment research, making it appropriate for communicating results clearly and effectively.\n\n\nKey takeaway\nBased on this backtest, the portfolio demonstrates stronger long-term performance compared to the benchmark, indicating that diversification and asset allocation choices can meaningfully enhance returns. However, the chart also shows that the portfolio experiences periods of volatility, reinforcing the importance of evaluating performance alongside risk rather than focusing solely on returns.\nThis visualization highlights the trade-off between risk and reward, which is a central concept in portfolio management and investment decision-making.\n\n\n\nPortfolio Construction\n\n\n\n\nPortfolio Construction (Context for the Visualization)\nThe results shown in the visualization are generated from a backtesting system that allows users to: - Select a time period for analysis - Define the number of ETFs and their respective weights - Compare portfolio performance against a chosen benchmark\nThis context is important because the visualization reflects not only market movements, but also the underlying assumptions and design choices made during portfolio construction.\n\n\n\nPortfolio AI Review\n\n\n\n\nPortfolio AI Review\nThis section presents an AI-generated review of the backtested portfolio based on its historical performance metrics, asset allocation, and risk characteristics. The AI analyzes quantitative indicators such as cumulative return, volatility, drawdowns, and individual ETF contributions to provide an interpretive summary of the portfolio’s strengths and weaknesses.\nRather than generating new numerical results, the AI serves as a decision-support tool, helping to contextualize the data shown in the visualization and translate technical metrics into actionable insights.\n\n\nHow the AI review complements the visualization\nThe AI review complements the portfolio performance chart in several ways:\n\nIt interprets performance trends observed in the cumulative return visualization, such as sustained outperformance or periods of heightened volatility.\nIt highlights risk considerations that may not be immediately obvious from the chart alone, including concentration risk or sensitivity to market downturns.\nIt provides qualitative insights that help bridge the gap between raw numerical data and investment decision-making.\n\nTogether, the visualization and AI review offer a more complete understanding of portfolio behavior than either component alone.\n\n\nKey takeaway\nThe AI review reinforces the insights derived from the visualization by emphasizing that strong returns should always be evaluated alongside risk and portfolio composition. While the portfolio demonstrates favorable long-term performance, the review highlights the importance of understanding underlying assumptions, market exposure, and risk trade-offs when interpreting backtesting results.\nThis section illustrates how AI can support more informed, data-driven decisions when used responsibly and in conjunction with clear visual evidence."
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "The primary GenAI tool I used for this assignment was ChatGPT to support the development and refinement of my personal website and content. The tool was not used to generate results or visualizations automatically, but rather to assist with structuring, explanation, and presentation of my existing work.\nI chose this tool because it is effective at explaining technical concepts clearly, improving the structure of written content, and suggesting refinements in wording while preserving the original meaning.\nAs this assignment involved both technical work and reflective writing, ChatGPT was suitable as a support tool to help communicate my ideas more clearly."
+  },
+  {
+    "objectID": "reflection.html#genai-tool-used-and-reason-for-choosing-it",
+    "href": "reflection.html#genai-tool-used-and-reason-for-choosing-it",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "The primary GenAI tool I used for this assignment was ChatGPT to support the development and refinement of my personal website and content. The tool was not used to generate results or visualizations automatically, but rather to assist with structuring, explanation, and presentation of my existing work.\nI chose this tool because it is effective at explaining technical concepts clearly, improving the structure of written content, and suggesting refinements in wording while preserving the original meaning.\nAs this assignment involved both technical work and reflective writing, ChatGPT was suitable as a support tool to help communicate my ideas more clearly."
+  },
+  {
+    "objectID": "reflection.html#how-genai-helped-me-complete-the-assessment",
+    "href": "reflection.html#how-genai-helped-me-complete-the-assessment",
+    "title": "Reflection on the use of GenAI",
+    "section": "How GenAI helped me complete the assessment",
+    "text": "How GenAI helped me complete the assessment\nGenAI supported my work in several practical ways:\n\nIt helped refine explanations for my data visualization, especially in explaining the rationale behind performance metrics and design choices.\nIt assisted in structuring content across different pages of the website, ensuring consistency and clarity.\nIt helped me verify that my content aligned with the assessment requirements, reducing the risk of missing key components.\n\nThe quantitative analysis, portfolio backtesting logic, and visualizations were created using my own systems and prior projects. GenAI was used only to polish presentation and explanations, not to generate results."
+  },
+  {
+    "objectID": "reflection.html#benefits-of-using-genai",
+    "href": "reflection.html#benefits-of-using-genai",
+    "title": "Reflection on the use of GenAI",
+    "section": "Benefits of using GenAI",
+    "text": "Benefits of using GenAI\nOne major benefit of GenAI is efficiency. It allows ideas to be refined quickly and helps transform technical explanations into clearer, more readable content.\nIt also serves as a second perspective when reviewing work, which is helpful for improving structure and identifying areas that need clarification."
+  },
+  {
+    "objectID": "reflection.html#challenges-and-limitations-of-genai",
+    "href": "reflection.html#challenges-and-limitations-of-genai",
+    "title": "Reflection on the use of GenAI",
+    "section": "Challenges and limitations of GenAI",
+    "text": "Challenges and limitations of GenAI\nGenAI has several limitations:\n\nIt may produce generic responses if prompts are not specific.\nIt does not fully understand project context unless detailed information is provided.\nOutputs must always be reviewed for accuracy and relevance.\n\nBecause of this, I treated GenAI as a supporting assistant, not a replacement for my own judgment or understanding."
+  },
+  {
+    "objectID": "reflection.html#how-genai-may-assist-me-in-future-study-or-work",
+    "href": "reflection.html#how-genai-may-assist-me-in-future-study-or-work",
+    "title": "Reflection on the use of GenAI",
+    "section": "How GenAI may assist me in future study or work",
+    "text": "How GenAI may assist me in future study or work\nIn future academic and professional work, I expect GenAI to be useful for: - drafting documentation and explanations, - summarizing technical concepts, - supporting reflection and ideation.\nHowever, strong domain knowledge and critical thinking will remain essential, especially in data analytics and finance-related work."
+  },
+  {
+    "objectID": "reflection.html#additional-thoughts",
+    "href": "reflection.html#additional-thoughts",
+    "title": "Reflection on the use of GenAI",
+    "section": "Additional thoughts",
+    "text": "Additional thoughts\nThis experience reinforced the importance of using GenAI responsibly. When used transparently and thoughtfully, it can enhance productivity and communication without compromising learning or originality."
   }
 ]
